@@ -3,7 +3,7 @@ Scripts em C++ utilizados na Iniciação Científica em Física Nuclear a respei
 
 O script deve ser utilizado com o software de simulação [GEANT4](https://geant4.web.cern.ch). Ele simula, de forma simplificada, o funcionamento do FoCal com respeito às colisões com, principalmente, elétrons e fótons.
 
-Para usá-lo, instale o GEANT4 em uma distribuição de Linux (recomenda-se o Ubuntu), juntamente com todas as suas dependências, além do ```cmake``` e ```qt```. Após isso, rode no terminal:
+Para usá-lo, instale o GEANT4 em uma distribuição de Linux (recomenda-se o Ubuntu), juntamente com todas as suas dependências, além do ```cmake```. Após isso, rode no terminal:
 ```bash
   ~/path_to_geant4_installation/share/Geant4/geant4make$ source geant4make.sh
   ~/path_to_sim/sim/$ mkdir build
