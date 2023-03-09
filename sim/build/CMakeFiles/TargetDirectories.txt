@@ -1,4 +1,0 @@
-/home/hepiclab/sim/build/CMakeFiles/rebuild_cache.dir
-/home/hepiclab/sim/build/CMakeFiles/Simulation.dir
-/home/hepiclab/sim/build/CMakeFiles/edit_cache.dir
-/home/hepiclab/sim/build/CMakeFiles/sim.dir
