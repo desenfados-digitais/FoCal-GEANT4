@@ -1,3 +1,5 @@
+// NOTE: Very inefficient code! Will substitute all PVPlacement for PVReplica.
+
 #include "construction.hh"
 
 
