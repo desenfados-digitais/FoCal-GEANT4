@@ -5,7 +5,7 @@ O script deve ser utilizado com o software de simulação [GEANT4](https://geant
 
 Para usá-lo, instale o GEANT4 em uma distribuição de Linux (recomenda-se o Ubuntu), juntamente com todas as suas dependências, além do ```cmake``` e ```qt```. Após isso, rode no terminal:
 ```bash
-  ~/path_to_geant4/share/Geant4/geant4make$ source geant4make.sh
+  ~/path_to_geant4_installation/share/Geant4/geant4make$ source geant4make.sh
   ~/path_to_sim/sim/$ mkdir build
   ~/path_to_sim/sim/build$ cmake ..
   ~/path_to_sim/sim/build$ make
